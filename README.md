@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/blT3N.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnRyZXV5emZyY2cyNWYyMjExZHI5dm5icmcwcThqcXlrd200OHl5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWeIZsh146sY7XPAx8/giphy.gif">
 </p>
 
 <p align="center">
