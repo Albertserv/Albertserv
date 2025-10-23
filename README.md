@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/tVwZukp-3q8AAAAd/ezreal-league-of-legends.gif" width="300px" alt="Ezreal casting spell">
+  <img src="https://tenor.com/blT3N.gif">
 </p>
 
 <p align="center">
