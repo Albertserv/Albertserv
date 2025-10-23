@@ -51,12 +51,13 @@
 ### 📫 Contacto
 📧 **adservin50@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/alberto-servin-29a79a249)  
-🌐 [Portafolio](https://albertserv.fluxoweb.net) 
-💼 Socio en **fluxoweb.net**
+🌐 [Portafolio](https://albertserv.fluxoweb.net)  
+🚀 **Cofundador en [FluxoWeb](https://fluxoweb.net)**  
+
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnRyZXV5emZyY2cyNWYyMjExZHI5dm5icmcwcThqcXlrd200OHl5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWeIZsh146sY7XPAx8/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnRyZXV5emZyY2cyNWYyMjExZHI5dm5icmcwcThqcXlrd200OHl5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWeIZsh146sY7XPAx8/giphy.gif" width="400px" alt="Ezreal Ultimate Animation">
 </p>
 
 <p align="center">
