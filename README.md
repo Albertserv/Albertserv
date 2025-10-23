@@ -1,7 +1,6 @@
 <!-- Banner animado o GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/16c47077-7904-4064-b1bf-8c3db9565669" />
-">
 </p>
 
 <h1 align="center">👋 ¡Hola, soy <strong>Albertserv</strong>!</h1>
