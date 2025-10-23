@@ -1,6 +1,6 @@
 <!-- Banner animado o GIF -->
 <p align="center">
-  <img src="<img width="1376" height="901" alt="image" src="https://github.com/user-attachments/assets/16c47077-7904-4064-b1bf-8c3db9565669" />
+  <img src="https://github.com/user-attachments/assets/16c47077-7904-4064-b1bf-8c3db9565669" />
 ">
 </p>
 
