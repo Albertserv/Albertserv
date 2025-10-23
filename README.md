@@ -33,8 +33,8 @@
 
 ### 📫 Contacto
 📧 **adservin50@gmail.com**  
-💼 [LinkedIn]((https://www.linkedin.com/in/alberto-servin-29a79a249))  
-🌐 [Portafolio o web personal]((https://albertserv.fluxoweb.net))  
+💼 [LinkedIn](https://www.linkedin.com/in/alberto-servin-29a79a249)
+🌐 [Portafolio o web personal](https://albertserv.fluxoweb.net)
 
 ---
 
