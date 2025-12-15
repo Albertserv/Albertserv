@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnRyZXV5emZyY2cyNWYyMjExZHI5dm5icmcwcThqcXlrd200OHl5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWeIZsh146sY7XPAx8/giphy.gif" width="400px" alt="Ezreal Ultimate Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A2OW5qdm90czR5c2k5Y2JucXlhYzlkNTkwZml2NDVkbHU0emZ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp3IRVIP3vbJJvFC0o/giphy.gif" width="400px" alt="Ezreal Ultimate Animation">
 </p>
 
 <p align="center">
